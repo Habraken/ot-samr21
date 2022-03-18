@@ -51,7 +51,7 @@ Open a terminal:
 
 $ openocd -f board/atmel_samr21_xplained_pro.cfg
 
-Leave the terminal open to monitor the status of the opencd server and open a new terminal.
+Leave the terminal open to monitor the status of the openocd server and open a new terminal.
 In this terminal:
 
 $ cd <path-to-ot-samr21>/build/bin
